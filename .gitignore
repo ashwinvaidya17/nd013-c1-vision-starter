@@ -1,2 +1,10 @@
 *__pycache__
 *.ipynb_checkpoints/
+
+# Models
+.ckpt
+checkpoint
+ckpt-*.index
+ckpt*data*
+events.out.tfevents*
+saved_model/
